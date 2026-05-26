@@ -1,35 +1,4 @@
-Product 1: 
-- Name: Wireless Noise-Cancelling Headphones
-- Category: Electronics
-- Price: $199.99
-- Description: Over-ear wireless headphones with active noise cancellation, 30-hour battery life, and built-in microphone.
-- Stock: In stock
-
-Product 2:
-- Name: Smart Fitness Watch
-- Category: Wearables
-- Price: $149.99
-- Description: Water-resistant fitness tracker with heart rate monitoring, sleep tracking, and smartphone notifications.
-- Stock: In stock
-
-Product 3:
-- Name: Portable Bluetooth Speaker
-- Category: Audio
-- Price: $79.99
-- Description: Compact speaker with 12-hour playtime, deep bass, and IPX7 waterproof rating.
-- Stock: In stock
-
-Product 4:
-- Name: Ultra HD 4K Monitor
-- Category: Computers
-- Price: $329.99
-- Description: 27-inch 4K IPS monitor with HDR support, slim bezels, and adjustable stand.
-- Stock: Limited stock
-
-Product 5:
-- Name: Ergonomic Office Chair
-- Category: Furniture
-- Price: $249.99
-- Description: Adjustable mesh chair with lumbar support, swivel base, and padded armrests.
-- Stock: In stock
-
+mobile
+laptop
+TV
+fridge
