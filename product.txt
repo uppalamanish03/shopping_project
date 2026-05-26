@@ -6,3 +6,7 @@ soundbar
 headphones
 iphone
 mouse
+apple 
+banana
+grape
+orange
