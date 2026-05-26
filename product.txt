@@ -6,13 +6,3 @@ soundbar
 headphones
 iphone
 mouse
-keyboard
-mobile
-laptop
-TV
-fridge
-soundbar
-headphones
-iphone
-mouse
-keyboard
