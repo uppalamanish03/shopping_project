@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add student</title>
+</head>
+<body>
+    <a href="dashboard.html">Dashboard</a> &nbsp;
+    <a href="addstudents.html">Add Student </a> &nbsp;
+    <a href="viewstudent.html">View Student Details</a> &nbsp;
+    <a href="logout.html">Logout</a>
+    <h1>Add Student</h1>
+    <form action="viewstudent.html">
+        <label for="student-id">Student ID:</label>
+        <input type="text" id="student-id" required><br><br>
+        <label for="student-name">Student Name:</label>
+        <input type="text" id="student-name"required><br><br>
+        <label for="student-email">Student Email:</label>
+        <input type="email" id="student-email" required><br><br>
+        <label for="CGPA">CGPA:</label>
+        <input type="number" id="CGPA" name="CGPA" step="0.01" min="0" max="10" required><br><br>
+        <input type="submit" value="Add Student">
+    </form>
+</body>
+</html>
